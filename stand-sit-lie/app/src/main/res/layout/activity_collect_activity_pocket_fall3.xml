@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.roadster.standsitlie.CollectActivityPocketFall3">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:text="STOP"
+        android:onClick="stopButton"
+        android:id="@+id/stopButton"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hold your phone in pocket and lie on a bed/sofa. You will keep lying for 10 seconds. After 10 seconds, you will hear a beep (sound). When you hear the beep, you will fall immediately. After you fall, you should press the STOP button.  "
+        android:id="@+id/textView"
+        android:textColor="#000000"
+        android:textSize="16dp" />
+</RelativeLayout>

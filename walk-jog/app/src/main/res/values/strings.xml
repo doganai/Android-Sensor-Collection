@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">walk-jog</string>
+    <string name="info">In this app, you will perform 4 activities: (1) walk with phone in hand and fall, (2) walk with phone in pocket and fall, (3) jog with phone in hand and fall, and (4) jog with phone in pocket and fall. Enter following information and then press START button.</string>
+    <string name="title_activity_collect_activity_hand_fall1">CollectActivityHandFall1</string>
+</resources>
