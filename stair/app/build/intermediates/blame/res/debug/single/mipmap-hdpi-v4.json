@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Roadster\\AndroidStudioProjects\\stair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Roadster\\AndroidStudioProjects\\stair\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Roadster\\AndroidStudioProjects\\walkjog\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Roadster\\AndroidStudioProjects\\walkjog\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Roadster\\AndroidStudioProjects\\walkjog\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.mp3",
+        "source": "C:\\Users\\Roadster\\AndroidStudioProjects\\walkjog\\app\\src\\main\\res\\raw\\beep.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Roadster\\AndroidStudioProjects\\stair\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.mp3",
+        "source": "C:\\Users\\Roadster\\AndroidStudioProjects\\stair\\app\\src\\main\\res\\raw\\beep.mp3"
+    }
+]
