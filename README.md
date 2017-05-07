@@ -1,5 +1,7 @@
 ### What is this repository for? ###
 
+All Rights Reserved.
+
 * Three Different Applications to Collect Sensor Data From Users.
 * 1.0
 
